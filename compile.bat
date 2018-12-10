@@ -1,0 +1,1 @@
+csc /win32icon:imageSublim.ico /target:winexe /out:imageSublim.exe imageSublim.cs /reference:"presentationframework.dll" /reference:"windowsbase.dll" /reference:"presentationcore.dll" /reference:"System.Xaml.dll"
